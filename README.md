@@ -1,66 +1,80 @@
-<!-- Profil GitHub README -->
+<!-- 🎇 Super Colorful GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm James What</h1>
-<h3 align="center">🌐 Web & App Designer | 🎨 UI/UX Enthusiast | 🧑‍🤝‍🧑 Conflict Mediation | 📚 eLearning Explorer | ✈️ Traveller</h3>
-
----
-
+<!-- Header Foto + Nama -->
 <p align="center">
-  <img src="james.jpg" alt="Profile Picture" width="200" style="border-radius:50%;"/>
+  <img src="james.jpg" alt="James What" width="200" style="border-radius:50%; border:4px solid #ff69b4;"/>
+</p>
+
+<h1 align="center">🌈 Hello World, I'm <span style="color:#ff1493;">James What</span> 🌈</h1>
+
+<!-- Animasi Teks Berjalan -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&size=28&color=FF69B4&center=true&vCenter=true&multiline=true&width=700&height=80&lines=✨+Web+Design+%F0%9F%96%A5;🎨+App+Design+%F0%9F%93%B1;💡+UI%2FUX+Lover;📚+E-Learning+Creator;🤝+Conflict+Mediator;🌍+Globetrotter+%26+Explorer" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-✨ I’m passionate about learning new things related to IT.  
-🤝 I enjoy making new friends and connecting with people.  
-💡 Always curious, creative, and eager to explore!  
+## 🌟 About Me
+💫 I'm James — a **lifelong learner** who loves exploring the IT world.  
+🌍 I enjoy **web & app design**, **UI/UX creativity**, **e-learning innovation**, and even **conflict mediation** 🤝.  
+✨ Most of all, I love making friends and learning together 🚀.  
 
 ---
 
-### 🚀 Interests
-- 🎨 Web Design  
-- 📱 App Design  
-- 🧘 Conflict Mediation  
-- 🖥️ UI/UX  
-- 📖 eLearning  
-- 🌍 Travelling  
-
----
-
-### 🌎 Connect with Me
-<p align="left">
-  <a href="https://youtube.com/@jameswhat" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://facebook.com/jwhere" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@jameswhat" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://instagram.com/jameswhat" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+## 🌐 Social Media
+<p align="center">
+  <a href="https://youtube.com/@jameswhat"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://facebook.com/jwhere"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://tiktok.com/@jameswhat"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://instagram.com/jameswhat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🎨 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teddybelajarid&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddybelajarid&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,figma,git,github,vscode,bootstrap,tailwind" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
+## 📊 GitHub Fun Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=teddybelajarid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teddybelajarid&show_icons=true&theme=rainbow" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddybelajarid&layout=compact&theme=rainbow" height="180px"/>
 </p>
 
 ---
 
-### 👀 Visitor Counter
+## 🏆 Trophies
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teddybelajarid&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Visitor Counter"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=teddybelajarid&theme=discord&no-frame=false&margin-w=10&row=2&column=4"/>
 </p>
 
 ---
 
-### ✨ Fun Animation
+## 🔥 Contributions Streak
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things!;Let's+connect+%F0%9F%91%8B"/>
+  <img src="https://streak-stats.demolab.com?user=teddybelajarid&theme=highcontrast&fire=FF69B4&ring=FFD700&currStreakLabel=00FF00" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teddybelajarid&bg_color=0f0c29&color=ff69b4&line=00ffff&point=ffd700&area=true&hide_border=true" />
+</p>
+
+---
+
+## 👀 Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=teddybelajarid&style=for-the-badge&color=ff69b4&label=💖+Profile+Lovers"/>
+</p>
+
+---
+
+## 🎆 Special Animated Banner
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks+for+Visiting!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=fff&animation=twinkling"/>
 </p>
