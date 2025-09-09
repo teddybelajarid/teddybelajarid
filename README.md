@@ -74,6 +74,23 @@
 
 ---
 
+## 📌 Featured Projects
+> Replace the repo names below with your own to showcase your best work.
+
+<p align="center">
+  <a href="https://github.com/teddybelajarid/webgallery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddybelajarid&repo=webgallery&theme=tokyonight&hide_border=true" alt="UI Portfolio"/>
+  </a>
+  <a href="https://github.com/teddybelajarid/salonmerona">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddybelajarid&repo=salonmerona&theme=tokyonight&hide_border=true" alt="E-Learning Starter"/>
+  </a>
+  <a href="https://github.com/teddybelajarid/mnj">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teddybelajarid&repo=mnj&theme=tokyonight&hide_border=true" alt="Travel Journal"/>
+  </a>
+</p>
+
+---
+
 ## 🎆 Special Animated Banner
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks+for+Visiting!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=fff&animation=twinkling"/>
